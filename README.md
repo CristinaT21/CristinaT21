@@ -7,4 +7,4 @@
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=cristinat21&show_icons=true&theme=date_night&hide=stars,contribs" />
 
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinat21&langs_count=7&theme=date_night&layout=compact&hide_progress=true" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinat21&langs_count=7&theme=date_night&layout=compact&hide_progress=true" />
