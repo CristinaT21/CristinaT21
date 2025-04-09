@@ -5,6 +5,9 @@
 
 ##  <img src="https://img.shields.io/badge/Software%20Engineer%20Student%20💻-%23E1B2A2?style=for-the-badge&labelColor=2D2D2D)" height="30" />
 
-<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=cristinat21&show_icons=true&theme=date_night&hide=stars,contribs" />
-
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinat21&langs_count=7&theme=date_night&layout=compact&hide_progress=true" />
+<div style="display: inline-block; width: 51%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristinat21&show_icons=true&theme=date_night&hide=stars,contribs" width="100%" />
+</div>
+<div style="display: inline-block; width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinat21&langs_count=7&theme=date_night&layout=compact&hide_progress=true" width="80%" />
+</div>
