@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=cristinat21&show_icons=true&theme=date_night&hide=stars,contribs" width="100%"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinat21&langs_count=7&theme=date_night&layout=compact&hide_progress=true" width="100%"/></td>
+    <td><img src="./profile-summary-card-output/dracula/3-stats.svg" width="100%"/></td>
+    <td><img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="100%"/></td>
   </tr>
 </table>
